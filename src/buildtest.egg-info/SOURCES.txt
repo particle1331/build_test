@@ -1,4 +1,5 @@
 setup.py
+src/bigmodule.py
 src/module.py
 src/buildtest.egg-info/PKG-INFO
 src/buildtest.egg-info/SOURCES.txt
