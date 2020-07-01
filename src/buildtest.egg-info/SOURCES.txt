@@ -1,0 +1,6 @@
+setup.py
+src/module.py
+src/buildtest.egg-info/PKG-INFO
+src/buildtest.egg-info/SOURCES.txt
+src/buildtest.egg-info/dependency_links.txt
+src/buildtest.egg-info/top_level.txt
